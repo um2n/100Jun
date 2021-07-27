@@ -1,3 +1,5 @@
+#1157
+
 word = input().lower()
 word_list = list(set(word))
 cnt = []
